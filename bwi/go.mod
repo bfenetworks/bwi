@@ -1,4 +1,4 @@
-module github.com/bfenetworks/mock-waf
+module github.com/bfenetworks/bwi/bwi
 
 go 1.22
 
